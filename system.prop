@@ -2,5 +2,5 @@
 # system.prop for rolex
 #
 
-# DT2W: Enabled (rolex.dt2w=1); Disabled (rolex.dt2w=0)
+# dt2w
 rolex.dt2w=1
